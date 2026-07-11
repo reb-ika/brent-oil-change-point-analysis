@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+pymc
+arviz
+jupyter
+ipykernel
+flask
+flask-cors
+python-dotenv
+pytest
